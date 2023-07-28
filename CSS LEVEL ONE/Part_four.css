@@ -1,0 +1,28 @@
+/* selected tag{
+    property: value
+} */
+
+.firstDiv {
+    color: rgb(0, 2, 147);
+    border-color : blue;
+    border-width : thick;
+    border-style : solid;
+}
+
+.SecondDiv {
+color: seagreen;
+}
+
+ul {
+    color: purple;
+}
+
+.hire{
+    color: slateblue;
+    margin-left: 200px;
+}
+
+#slogan{
+    color: violet;
+    text-decoration: line-through  ;
+}
